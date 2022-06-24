@@ -39,12 +39,17 @@ hr {
 
 p {
     margin-bottom: 0;
+    line-height: 2;
 }
 
 .top-container {
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
+}
+
+.middle-container {
+    padding-top: 30px;
 }
 
 .bottom-container {
@@ -68,7 +73,6 @@ p {
     margin: 100px auto;
     width: 50%;
     text-align: justify;
-    line-height: 2;
 }
 
 .left-image {
@@ -84,7 +88,7 @@ p {
 }
 
 .contact-me {
-    padding: 20px;
+    padding: 0 20px;
 
 }
 
